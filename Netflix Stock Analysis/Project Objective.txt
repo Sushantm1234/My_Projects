@@ -1,0 +1,6 @@
+Objective :-
+1)  Volume of Stock Traded
+2)  Netflix Stock Price - High, Open, Close
+3)  Netflix Stock Price - Day, Month, Year Wise
+4)  Top-5 Dates with Highest Stock Price
+5)  Top-5 Dates with Lowest Stock Price
